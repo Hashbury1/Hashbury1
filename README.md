@@ -1,4 +1,4 @@
-# Hi guys, I'm Archibong Hashbury 👋
+# Hi guys, I'm Hashbury 👋
 
 <div align="center">
   
