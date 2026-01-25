@@ -22,8 +22,8 @@
 > **Building secure blockchain infrastructure with automation**
 
 - 🔭 I'm currently working on **Terraform Infrastructure Automation** and **Blockchain CI/CD**
-- 🌱 I'm deepening my expertise in **DevOps, Blockchain, AWS, Docker, Terraform and Kubernetes**
-- 💬 Ask me about **DevOps, Blockchain, Terraform, Docker**
+- 🌱 I'm deepening my expertise in **DevOps, Blockchain/Web3, AWS, Docker, Terraform and Kubernetes**
+- 💬 Ask me about **DevOps, Web3, Terraform, Docker**
 - 📫 How to reach me: [@IamHashBury](https://x.com/IamHashBury)
 - ⚡ Fun fact: I love automating everything. 
 
@@ -120,11 +120,11 @@
 ## 💼 Current Focus
 
 ```yaml
-Role: DevOps Engineer | Blockchain CI/CD Specialist
+Role: DevOps Engineer | Blockchain CI/CD Expert 
 Focus Areas:
   - Infrastructure as Code (Terraform)
   - Container Orchestration (Docker, Kubernetes)
-  - Cloud Platforms (AWS: EC2, S3, Lambda)
+  - Cloud Platforms (AWS: EC2, S3, Lambda, IAM)
   - CI/CD Pipelines (GitHub Actions, Jenkins)
   - Blockchain Infrastructure
   - Python Backend Development (Django/Flask)
@@ -132,12 +132,12 @@ Focus Areas:
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
-- [ ] Master Kubernetes & Service Mesh
+- [ ] Master Kubernetes
 - [ ] Build production-grade blockchain infrastructure
-- [ ] Contribute to major open-source DevOps projects
-- [ ] Achieve AWS Solutions Architect certification
+- [ ] Collaborate with major open-source DevOps projects
+- [ ] partner with Blockchain testnet founders
 - [ ] Expand CI/CD automation frameworks
 
 ---
