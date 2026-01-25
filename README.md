@@ -87,19 +87,19 @@
 
 <div align="center">
 
-<a href="https://github.com/Hashbury1/S3-EC2-Terraform-integration">
+<a href="https://github.com/Hashbury1/Ci-cd-docker-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=S3-EC2-Terraform-integration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
 </a>
 
-<a href="https://github.com/Hashbury1/terraform-statelock-project">
+<a href="https://github.com/Hashbury1/prod-devops-cicd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=terraform-statelock-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
 </a>
 
-<a href="https://github.com/Hashbury1/flask-app-with-Django">
+<a href="https://github.com/Hashbury1/monitoring-eks-cloudwatch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=flask-app-with-Django&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
 </a>
 
-<a href="https://github.com/Hashbury1/django-test-app">
+<a href="https://github.com/Hashbury1/Private-Ethereum-Testnet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=django-test-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
 </a>
 
