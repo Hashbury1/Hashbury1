@@ -127,7 +127,6 @@ Focus Areas:
   - Cloud Platforms (AWS: EC2, S3, Lambda, IAM)
   - CI/CD Pipelines (GitHub Actions, Jenkins)
   - Blockchain Infrastructure
-  - Python Backend Development (Django/Flask)
 ```
 
 ---
