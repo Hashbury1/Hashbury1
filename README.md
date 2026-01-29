@@ -21,7 +21,7 @@
 
 > **Building secure blockchain infrastructure with automation**
 
-- 🔭 I'm currently working on **Terraform Infrastructure Automation** and **Blockchain CI/CD**
+- 🔭 I'm currently working on **Terraform IaC Automation** and **Blockchain CI/CD**
 - 🌱 I'm deepening my expertise in **DevOps, Blockchain/Web3, AWS, Docker, Terraform and Kubernetes**
 - 💬 Ask me about **DevOps, Web3, Terraform, Docker**
 - 📫 How to reach me: [@IamHashBury](https://x.com/IamHashBury)
@@ -73,37 +73,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hashbury1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
 ---
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/Hashbury1/Ci-cd-docker-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=S3-EC2-Terraform-integration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/Hashbury1/prod-devops-cicd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=terraform-statelock-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/Hashbury1/monitoring-eks-cloudwatch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=flask-app-with-Django&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/Hashbury1/Private-Ethereum-Testnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hashbury1&repo=django-test-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-</div>
 
 ---
 
@@ -128,16 +98,6 @@ Focus Areas:
   - CI/CD Pipelines (GitHub Actions, Jenkins)
   - Blockchain Infrastructure
 ```
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Master Kubernetes
-- [ ] Build production-grade blockchain infrastructure
-- [ ] Collaborate with major open-source DevOps projects
-- [ ] partner with Blockchain testnet founders
-- [ ] Expand CI/CD automation frameworks
 
 ---
 
