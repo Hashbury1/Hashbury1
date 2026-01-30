@@ -21,9 +21,7 @@
 
 > **Building secure blockchain infrastructure with automation**
 
-- 🔭 I'm currently working on **Terraform IaC Automation** and **Blockchain CI/CD**
 - 🌱 I'm deepening my expertise in **DevOps, Blockchain/Web3, AWS, Docker, Terraform and Kubernetes**
-- 💬 Ask me about **DevOps, Web3, Terraform, Docker**
 - 📫 How to reach me: [@IamHashBury](https://x.com/IamHashBury)
 - ⚡ Fun fact: I love automating everything. 
 
