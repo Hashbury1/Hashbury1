@@ -21,7 +21,7 @@
 
 > **Building secure blockchain infrastructure with automation**
 
-- 🌱 I'm deepening my expertise in **DevOps, Blockchain/Web3, AWS, Docker, Terraform and Kubernetes**
+- 🌱 Expertise in **DevOps, Blockchain/Web3, AWS, Docker, Terraform and Kubernetes**
 - 📫 How to reach me: [@IamHashBury](https://x.com/IamHashBury)
 - ⚡ Fun fact: I love automating everything. 
 
